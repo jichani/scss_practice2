@@ -1,0 +1,16 @@
+%message {
+  padding: 8px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background: #5f0;
+}
+
+.good-message {
+  @extend %message;
+}
+
+.bad-message {
+  @extend %message;
+  background: #f05;
+}

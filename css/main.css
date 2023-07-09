@@ -1,0 +1,11 @@
+.bad-message, .good-message {
+  padding: 8px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background: #5f0;
+}
+
+.bad-message {
+  background: #f05;
+}/*# sourceMappingURL=main.css.map */
